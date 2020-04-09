@@ -1,3 +1,5 @@
-cohortId,atlasId,name
-2,15348,Death
-1,15349,Hospitalizations_with_pneumonia_and_ARDS_requiring_intensive_services
+cohortId,atlasId,name,type
+2,15348,Death,outcome
+1,15349,Hospitalizations_with_pneumonia_and_ARDS_requiring_intensive_services,target
+3,525,Persons_hospitalized_with_COVID-19_narrow_w_prior_observation,target
+4,526,Persons_hospitalized_with_COVID-19_requiring_intensive_care,target
